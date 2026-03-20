@@ -1,0 +1,114 @@
+Script started on 2026-03-20 12:24:00+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="219" LINES="15"]
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.outg++ kthSmallest.cpp
+[?2004l[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ g++ kthSmallest.cpp[12P./a.out
+[?2004lEnter size of array
+--> 6
+Enter int array element
+--> 6
+Enter int array element
+--> 3
+Enter int array element
+--> 1
+Enter int array element
+--> 10
+Enter int array element
+--> 8
+Enter int array element
+--> 4
+Enter k to find kth smallest of the array
+--> 4
+6
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter size of array
+--> 3
+Enter int array element
+--> 1
+Enter int array element
+--> 2
+Enter int array element
+--> 3
+Enter k to find kth smallest of the array
+--> 2
+2
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter size of array
+--> 3
+Enter int array element
+--> 1
+Enter int array element
+--> 2
+Enter int array element
+--> 3
+Enter k to find kth smallest of the array
+--> 1
+1
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter size of array
+--> 3
+Enter int array element
+--> 1
+Enter int array element
+--> 2
+Enter int array element
+--> 3
+Enter k to find kth smallest of the array
+--> 3
+3
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter size of array
+--> 15
+Enter int array element
+--> 15
+Enter int array element
+--> 14
+Enter int array element
+--> 13
+Enter int array element
+--> 12
+Enter int array element
+--> 10
+Enter int array element
+--> 9
+Enter int array element
+--> 3
+Enter int array element
+--> 4
+Enter int array element
+--> 1
+Enter int array element
+--> 7
+Enter int array element
+--> 6
+Enter int array element
+--> 87
+Enter int array element
+--> 5
+Enter int array element
+--> 12
+Enter int array element
+--> 3
+Enter k to find kth smallest of the array
+--> 5
+5
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter size of array
+--> 0
+Enter k to find kth smallest of the array
+--> 1
+Indexing Error
+-1
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ ./a.out
+[?2004lEnter size of array
+--> 2
+Enter int array element
+--> 1
+Enter int array element
+--> 2
+Enter k to find kth smallest of the array
+--> -1
+Invalid k Error
+-1
+[?2004h[0;32m@var-WhatNow [0m➜ [1;34m/workspaces/Project3-Public [0;36m([1;31mmain[0;36m) [0m$ [?2004l
+exit
+
+Script done on 2026-03-20 12:25:56+00:00 [COMMAND_EXIT_CODE="0"]

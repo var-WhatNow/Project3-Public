@@ -108,7 +108,7 @@ int kSmall(int* iArray, int firstIndex, int lastIndex, int k){
         return -1;
     }
 
-    if(firstIndex > lastIndex ||  k > lastIndex - firstIndex){
+    if(firstIndex > lastIndex ||  k > (lastIndex - firstIndex + 1)){
         std::cerr << "Indexing Error" << std::endl;
         return -1;                                                      //this should only trigger on incorrect input or weird science recursion
     }                                                                   //as I put the pivot as the last element of the array before fiddling with things
